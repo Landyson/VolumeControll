@@ -39,7 +39,7 @@ Desktopová aplikace pro Windows, která umožňuje hardwarově ovládat systém
 
 1. **Firmware (Arduino Nano):**  
    1. Připojte lineární potenciometry k analogovým pinům Arduino Nano.  
-   2. Otevřete `volume_controller_firmware.ino` v Arduino IDE.  
+   2. Otevřete `deej-5-sliders-vanilla.ino` v Arduino IDE.  
    3. Vyberte desku "Arduino Nano" a správný port.  
    4. Nahrajte firmware.
 
